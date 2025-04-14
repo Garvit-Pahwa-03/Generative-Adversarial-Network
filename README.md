@@ -1,1 +1,1 @@
-# Generative-Adversarial-Network
+# Build a GAN to Generate Faces Using CelebA Dataset
